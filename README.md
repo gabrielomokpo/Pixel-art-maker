@@ -1,2 +1,2 @@
 # Pixel-art-maker
-This repository contacts codes for my final ALC challenge on creating a pixel art 
+This repository contains files for my final ALC challenge on creating a pixel art maker
